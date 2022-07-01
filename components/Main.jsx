@@ -16,7 +16,7 @@ const Main = () => {
             Hi, I&#39;m <span className="text-[#5651e5]">Evan</span>
           </h1>
           <h1 className="py-2 text-gray-700">
-            A User Interface & User Experience
+            A User Interface and User Experience
           </h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
             I’m focused on building user interface and user experience while

@@ -52,7 +52,7 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className="py-2">Evan Uzoka Kamsiyonna</h2>
-                <p>A User Interface & User Experience designer</p>
+                <p>A User Interface and User Experience designer</p>
                 <p className="py-4">
                   I am available for full-time positions. Contact me and
                   let&apos;s talk.
