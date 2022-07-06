@@ -19,7 +19,7 @@ const Main = () => {
             A User Interface and User Experience
           </h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I'm focused on genuinely adding value to humanity through creative
+            I am focused on genuinely adding value to humanity through creative
             ui/ux designs to create simple solutions to complex problems.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">

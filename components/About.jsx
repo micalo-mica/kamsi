@@ -16,13 +16,13 @@ const About = () => {
             / / I am not your average developer
           </p>
           <p className="py-2 text-gray-600">
-            Hi I'm Evan, a ui/ux designer skilled in delivering unique digital
+            Hi I am Evan, a ui/ux designer skilled in delivering unique digital
             experiences through design that is fueled by empathy & driven by
             creative storytelling. I am also genuinely passionate about adding
             value to humanity through creative & innovative thinking in a bid to
             create simple solutions to complex human problems. My interest in
             becoming a web designer started while working as a car salesman. I
-            was introduced to ui/ux design by a close friend. I've always been
+            was introduced to ui/ux design by a close friend. I have always been
             curious about designs but after equipping myself going through
             YouTube tutorials on ui/ux designs from scratch i was officially
             hooked not only it intellectually stimulating but it was the first
