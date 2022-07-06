@@ -52,7 +52,8 @@ const Navbar = () => {
           : "fixed w-full h-20 z-[100]"
       }
     >
-      <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
+      {/* i change px-2 to px-9 below */}
+      <div className="flex justify-between items-center w-full h-full px-9 2xl:px-16">
         <Link href="/">
           <h1 className="cursor-pointer">Evan</h1>
         </Link>
