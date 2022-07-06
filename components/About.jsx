@@ -16,21 +16,19 @@ const About = () => {
             / / I am not your average developer
           </p>
           <p className="py-2 text-gray-600">
-            I have spent the last 12 years in the fire service working as a
-            professional firefighter/paramedic. I have always had a knack for
-            technology and working with computers. In 2019 I started working
-            with HTML and CSS to make some minor edits on a small business
-            website that I was operating. What I thought was just a few small
-            edits turned into a love for programming.
+            Hi I'm Evan, a ui/ux designer skilled in delivering unique digital
+            experiences through design that is fueled by empathy & driven by
+            creative storytelling. I am also genuinely passionate about adding
+            value to humanity through creative & innovative thinking in a bid to
+            create simple solutions to complex human problems. My interest in
+            becoming a web designer started while working as a car salesman. I
+            was introduced to ui/ux design by a close friend. I've always been
+            curious about designs but after equipping myself going through
+            YouTube tutorials on ui/ux designs from scratch i was officially
+            hooked not only it intellectually stimulating but it was the first
+            time I found myself doing something I ever loved.
           </p>
-          <p className="py-2 text-gray-600">
-            Fascinated with how intricate programming can be I was quickly drawn
-            to learn more. I started learning javascript and was even more
-            enthused with making websites interactive. I then started
-            freelancing for e-commerce companies on the Shopify platform. I am
-            now spending my time building projects with React JS, Firebase, and
-            learning new technologies.
-          </p>
+          <p className="py-2 text-gray-600"></p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">
               Check out some of my latest projects.

@@ -2,11 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import project1 from "../public/assets/projects/project1.jpg";
-import project2 from "../public/assets/projects/project2.jpg";
 import project3 from "../public/assets/projects/project3.jpg";
 import project4 from "../public/assets/projects/project4.jpg";
-import project5 from "../public/assets/projects/project5.jpg";
-import project6 from "../public/assets/projects/project6.jpg";
 import project7 from "../public/assets/projects/project7.jpg";
 import project8 from "../public/assets/projects/project8.jpg";
 import ProjectItem from "./ProjectItem";
@@ -26,12 +23,7 @@ const Projects = () => {
             projectUrl="http://Figma.com/file/65JvjpAdCYrEj2ajGJ6KSp/Furniture-Page?node-id=0%3A1"
             tech="best in town"
           />
-          <ProjectItem
-            title="Crypto App"
-            backgroundImg={project2}
-            projectUrl="/crypto"
-            tech="Next Js"
-          />
+
           <ProjectItem
             title="Restaurant"
             backgroundImg={project3}
@@ -44,18 +36,7 @@ const Projects = () => {
             projectUrl="https://Figma.com/proto/N7PTCp7m2Ww9CICgaU1HYZ/MK-food-ordering-app?node-id=21%3A76&starting-point-node-id=21%3A76"
             tech="We are at your service"
           />
-          <ProjectItem
-            title="Netflix App"
-            backgroundImg={project5}
-            projectUrl="/netflix"
-            tech="React JS"
-          />
-          <ProjectItem
-            title="Netflix App"
-            backgroundImg={project6}
-            projectUrl="/netflix"
-            tech="React JS"
-          />
+
           <ProjectItem
             title="KAMAL FASHION"
             backgroundImg={project7}

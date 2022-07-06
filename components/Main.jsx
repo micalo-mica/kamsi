@@ -19,8 +19,8 @@ const Main = () => {
             A User Interface and User Experience
           </h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I’m focused on building user interface and user experience while
-            learning front-end web applications and back-end technologies.
+            I'm focused on genuinely adding value to humanity through creative
+            ui/ux designs to create simple solutions to complex problems.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
@@ -28,7 +28,11 @@ const Main = () => {
                 <FaLinkedinIn />
               </div>
             </a>
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <a
+              href="https://www.linkedin.com/in/uzoka-kamsi-9177b9237/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaGithub />
               </div>

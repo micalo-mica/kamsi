@@ -54,8 +54,8 @@ const Contact = () => {
                 <h2 className="py-2">Evan Uzoka Kamsiyonna</h2>
                 <p>A User Interface and User Experience designer</p>
                 <p className="py-4">
-                  I am available for full-time positions. Contact me and
-                  let&apos;s talk.
+                  I am available for freelance/part-time, full-time positions.
+                  Contact me and let&apos;s talk.
                 </p>
               </div>
               <div>
@@ -71,7 +71,7 @@ const Contact = () => {
                     </div>
                   </a>
                   <a
-                    href="https://github.com/"
+                    href="https://www.linkedin.com/in/uzoka-kamsi-9177b9237/"
                     target="_blank"
                     rel="noreferrer"
                   >
